@@ -1,1 +1,1 @@
-# ML-DL-projects
+# Machine-hack-Hackathon Solutions
