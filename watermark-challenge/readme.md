@@ -1,0 +1,1 @@
+Epoch [25/25], Training Loss: 20.7873, Training Acc: 0.8579, Val Loss:32.5534, Val Acc:0.7417
