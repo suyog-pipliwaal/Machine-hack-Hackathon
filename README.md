@@ -8,3 +8,4 @@ This repo contain the solution for all the hackathon I took part in at [Machine 
 |The Leaf Disease Classification Challenge| 10|
 |The News Category Hackathon| 85|
 |The Watermark Challenge|18|
+|Flight Price Prediction|308|
